@@ -1,0 +1,7 @@
+date: 10 May
+code: motor with class chai
+
+noise when motor class constructed
+noise increased when 2 motor class constructed, maybe because signal of 2 motor interfere 
+eachother.
+
